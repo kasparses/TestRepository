@@ -8,4 +8,10 @@ Edited in webbrowser 3
 
 blabla
 
+HEAD
 commit from the branch master
+
+Added from branch-01
+
+Added at the time of merging
+
